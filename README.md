@@ -14,7 +14,7 @@ Visa Platinum 7000 79** **** 6361 -> Счет **9638
 
 #### Клонирование проекта:
 ```
-git clone https://github.com/AleksaGold/pythonProject_unit_3.git
+git clone git@github.com:AleksaGold/Banking_Widget.git
 ```
 #### Запуск:
 Для запуска проекта вам необходимо создать виртуальное окружение, сделать это можно с помощью команды
